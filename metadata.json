@@ -1,0 +1,6 @@
+{
+  "name": "VELORA - Luxury Storefront & E-Commerce",
+  "description": "Premium luxury fashion and lifestyle storefront with order management, checkout, Google Sheets and Telegram integrations, and admin analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

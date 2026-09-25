@@ -1,0 +1,16 @@
+{
+  "name": "VELORA - Maison de Luxe",
+  "short_name": "VELORA",
+  "description": "Contemporary haute couture, fine leather goods, artisan jewelry, and curated lifestyle collections.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#121212",
+  "theme_color": "#121212",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' fill='%23121212'/><text y='.75em' x='50%' text-anchor='middle' font-size='60' fill='%23FAF8F5' font-family='serif'>V</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ]
+}
